@@ -1,0 +1,8 @@
+Mean pupil size n seconds before stimulus onset
+Mean pupil size n seconds after stimulus onset
+Baseline corrected pupil size n seconds before trial onset
+Reaction time
+Number of fixations on a stimulus
+Mean length of fixations on a stimulus
+Number of blinks n seconds before a stimulus
+Number of blinks n seconds after stimulus presentation
