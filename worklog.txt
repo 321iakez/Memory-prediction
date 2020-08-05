@@ -1,15 +1,43 @@
-Goals: 
------------------------------------------------------------------------------------
-create a function that takes
-
-1) a set of features
-2) an onset time
-
-and returns the prediction accuracy of a logreg model trained using the above setup.
-
-
-List of possible features:
-
-rt
-
+11
+13
+14
+16
+17
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+32
+34
+35
+36
+37
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+56
+57
+58
+59
+60
 
